@@ -11,7 +11,6 @@
 👯 I'm looking to collaborate on Open Source projects.<br>  
 🤔 I'm looking for help with DevOps and Cloud Technologies.<br>  
 💬 Ask me about Web Development, Programming, or anything tech-related!<br>  
-📫 How to reach me: <a href="https://www.linkedin.com/in/aditya-tiwari-141bb3293/">LinkedIn</a>
 😄 Pronouns: He/Him<br>  
 
 </td>
