@@ -1,4 +1,4 @@
-# 💫 About Me:  
+## 💫 About Me:  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Robotic+Code&pause=1200&color=00AA00&center=true&vCenter=true&width=435&lines=Awanish+Tripathi;Full+Stack+Developer;Open+Source+Contributor;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
@@ -13,7 +13,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 
-# Socials
+### Socials
 
 <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; width:100%; flex-wrap:wrap;">
   <a href="https://www.linkedin.com/in/awanish-mani-tripathi-652a03232/" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
@@ -37,7 +37,7 @@
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 
-## 💻 Tech Stack   
+### 💻 Tech Stack   
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -72,7 +72,7 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 ![Metrics](https://github.com/AresPhoenix345/AresPhoenix345/blob/master/github-metrics.svg)<br>
 ![](https://github-readme-stats.vercel.app/api?username=AresPhoenix345&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br>  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AresPhoenix345&theme=tokyonight&hide_border=false)<br>  
@@ -80,18 +80,18 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-## 📈 Contribution Graph  
+### 📈 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AresPhoenix345&theme=tokyo-night&hide_border=true)  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
-## 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=AresPhoenix345&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
 
 
-## 📊 GitHub Activity Overview  
+### 📊 GitHub Activity Overview  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AresPhoenix345&theme=github_dark)  
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://user-images.githubusercontent.com/105775899/235299569-e15e9b1c-09cc-492a-ad8e-cef25979d4d1.gif)
